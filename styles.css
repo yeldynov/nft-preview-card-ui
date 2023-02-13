@@ -63,6 +63,11 @@ h1 {
   text-align: left;
 }
 
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
 p {
   color: var(--soft-blue);
   line-height: 1.5rem;
